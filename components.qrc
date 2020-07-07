@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/components">
+        <file alias="qmldir">components/qmldir</file>
+        <file alias="RectangleApp.qml">components/RectangleApp.qml</file>
+        <file alias="Test.qml">components/Test.qml</file>
+    </qresource>
+</RCC>
